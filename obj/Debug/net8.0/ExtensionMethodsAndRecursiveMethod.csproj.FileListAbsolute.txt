@@ -1,0 +1,14 @@
+C:\Users\sumey\Source\repos\ExtensionMethodsAndRecursiveMethod\obj\Debug\net8.0\ExtensionMethodsAndRecursiveMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sumey\Source\repos\ExtensionMethodsAndRecursiveMethod\obj\Debug\net8.0\ExtensionMethodsAndRecursiveMethod.AssemblyInfoInputs.cache
+C:\Users\sumey\Source\repos\ExtensionMethodsAndRecursiveMethod\obj\Debug\net8.0\ExtensionMethodsAndRecursiveMethod.AssemblyInfo.cs
+C:\Users\sumey\Source\repos\ExtensionMethodsAndRecursiveMethod\obj\Debug\net8.0\ExtensionMethodsAndRecursiveMethod.csproj.CoreCompileInputs.cache
+C:\Users\sumey\Source\repos\ExtensionMethodsAndRecursiveMethod\bin\Debug\net8.0\ExtensionMethodsAndRecursiveMethod.exe
+C:\Users\sumey\Source\repos\ExtensionMethodsAndRecursiveMethod\bin\Debug\net8.0\ExtensionMethodsAndRecursiveMethod.deps.json
+C:\Users\sumey\Source\repos\ExtensionMethodsAndRecursiveMethod\bin\Debug\net8.0\ExtensionMethodsAndRecursiveMethod.runtimeconfig.json
+C:\Users\sumey\Source\repos\ExtensionMethodsAndRecursiveMethod\bin\Debug\net8.0\ExtensionMethodsAndRecursiveMethod.dll
+C:\Users\sumey\Source\repos\ExtensionMethodsAndRecursiveMethod\bin\Debug\net8.0\ExtensionMethodsAndRecursiveMethod.pdb
+C:\Users\sumey\Source\repos\ExtensionMethodsAndRecursiveMethod\obj\Debug\net8.0\ExtensionMethodsAndRecursiveMethod.dll
+C:\Users\sumey\Source\repos\ExtensionMethodsAndRecursiveMethod\obj\Debug\net8.0\refint\ExtensionMethodsAndRecursiveMethod.dll
+C:\Users\sumey\Source\repos\ExtensionMethodsAndRecursiveMethod\obj\Debug\net8.0\ExtensionMethodsAndRecursiveMethod.pdb
+C:\Users\sumey\Source\repos\ExtensionMethodsAndRecursiveMethod\obj\Debug\net8.0\ExtensionMethodsAndRecursiveMethod.genruntimeconfig.cache
+C:\Users\sumey\Source\repos\ExtensionMethodsAndRecursiveMethod\obj\Debug\net8.0\ref\ExtensionMethodsAndRecursiveMethod.dll
